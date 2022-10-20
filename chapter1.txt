@@ -1,1 +1,2 @@
 This is my story 2. It is in the master branch.
+This is great story.
